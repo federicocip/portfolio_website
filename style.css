@@ -1,0 +1,25 @@
+body {
+    background-color:rgba(214, 240, 240, 0.918);
+}
+
+#title {
+    margin-left: 20px;
+}
+
+main {
+    margin: 200px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 0 20px;
+}
+
+a {
+    text-decoration: none;
+}
